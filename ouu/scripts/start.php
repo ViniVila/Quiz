@@ -57,7 +57,7 @@ function prepare_game($total_questions)
 
 <div class="row">
     <!-- Titulo principal -->
-    <h1>Quiz das Capitais</h1>
+    <h1>Quiz dos Estadios </h1>
     <hr>
 
     <!-- Formulario para o usuario definir o numero de questoes e iniciar o jogo -->
